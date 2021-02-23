@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinPractice</string>
+    <string name="enter_book_name">enter book name</string>
+    <string name="todo">TODO</string>
+</resources>
